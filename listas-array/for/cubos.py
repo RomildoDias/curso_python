@@ -6,4 +6,6 @@ lista_cubo = []
 for i in range(1,11):
     lista_cubo.append(i**2)
 print(lista_cubo)   
+
+
     

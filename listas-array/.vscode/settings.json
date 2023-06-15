@@ -1,0 +1,6 @@
+{
+    "workbench.sideBar.location": "left",
+    "diffEditor.renderSideBySide": true,
+    "editor.minimap.side": "left",
+    "files.simpleDialog.enable": true
+}
